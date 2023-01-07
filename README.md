@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivaylo
 - 👀 I’m interested in programming, technology ...
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently developing with Java.
 - 💞️ I’m looking to collaborate on all the projects searching for junior dev or less experienced one.
 - 📫 How to reach me: itrifonov87@gmail.com
 
